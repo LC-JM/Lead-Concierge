@@ -1,0 +1,150 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#F8FAFC"/>
+
+  <!-- Header -->
+  <text x="120" y="110" fill="#020617" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="600">
+    See How Much Revenue You're Losing
+  </text>
+  <text x="120" y="155" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="400">
+    Estimate how much revenue and time you can recover with an automated lead conversion system.
+  </text>
+
+  <!-- Left Panel -->
+  <rect x="120" y="220" width="560" height="520" rx="24" fill="white" stroke="#E2E8F0"/>
+
+  <text x="152" y="270" fill="#020617" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="600">
+    Inputs
+  </text>
+
+  <!-- Slider 1 -->
+  <text x="152" y="320" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500">
+    Leads per Month
+  </text>
+  <text x="620" y="320" text-anchor="end" fill="#020617" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">
+    50
+  </text>
+  <rect x="152" y="338" width="496" height="6" rx="3" fill="#E2E8F0"/>
+  <rect x="152" y="338" width="180" height="6" rx="3" fill="#2563EB"/>
+  <circle cx="332" cy="341" r="10" fill="#2563EB"/>
+
+  <!-- Slider 2 -->
+  <text x="152" y="390" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500">
+    Average Job Value ($)
+  </text>
+  <text x="620" y="390" text-anchor="end" fill="#020617" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">
+    300
+  </text>
+  <rect x="152" y="408" width="496" height="6" rx="3" fill="#E2E8F0"/>
+  <rect x="152" y="408" width="140" height="6" rx="3" fill="#2563EB"/>
+  <circle cx="292" cy="411" r="10" fill="#2563EB"/>
+
+  <!-- Slider 3 -->
+  <text x="152" y="460" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500">
+    Leads Not Followed Up Properly (%)
+  </text>
+  <text x="620" y="460" text-anchor="end" fill="#020617" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">
+    30%
+  </text>
+  <rect x="152" y="478" width="496" height="6" rx="3" fill="#E2E8F0"/>
+  <rect x="152" y="478" width="210" height="6" rx="3" fill="#2563EB"/>
+  <circle cx="362" cy="481" r="10" fill="#2563EB"/>
+
+  <!-- Response Speed -->
+  <text x="152" y="540" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500">
+    Response Speed
+  </text>
+  <rect x="152" y="558" width="86" height="36" rx="18" fill="#2563EB"/>
+  <text x="195" y="581" text-anchor="middle" fill="white" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600">
+    Instant
+  </text>
+  <rect x="248" y="558" width="86" height="36" rx="18" fill="#E2E8F0"/>
+  <text x="291" y="581" text-anchor="middle" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500">
+    15 min
+  </text>
+  <rect x="344" y="558" width="86" height="36" rx="18" fill="#E2E8F0"/>
+  <text x="387" y="581" text-anchor="middle" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500">
+    1 hour
+  </text>
+  <rect x="440" y="558" width="96" height="36" rx="18" fill="#E2E8F0"/>
+  <text x="488" y="581" text-anchor="middle" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500">
+    Same day
+  </text>
+  <rect x="546" y="558" width="102" height="36" rx="18" fill="#E2E8F0"/>
+  <text x="597" y="581" text-anchor="middle" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500">
+    Next day
+  </text>
+
+  <!-- Follow-up -->
+  <text x="152" y="650" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500">
+    Follow-Up Consistency
+  </text>
+  <rect x="152" y="668" width="110" height="36" rx="18" fill="#2563EB"/>
+  <text x="207" y="691" text-anchor="middle" fill="white" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600">
+    Consistent
+  </text>
+  <rect x="272" y="668" width="90" height="36" rx="18" fill="#E2E8F0"/>
+  <text x="317" y="691" text-anchor="middle" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500">
+    Some
+  </text>
+  <rect x="372" y="668" width="80" height="36" rx="18" fill="#E2E8F0"/>
+  <text x="412" y="691" text-anchor="middle" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500">
+    Rare
+  </text>
+
+  <!-- Right Panel -->
+  <text x="760" y="270" fill="#020617" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="600">
+    Estimated Results
+  </text>
+
+  <!-- Card 1 -->
+  <rect x="760" y="300" width="560" height="88" rx="20" fill="#FEF2F2"/>
+  <text x="792" y="335" fill="#991B1B" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="600">
+    Revenue You're Losing
+  </text>
+  <text x="792" y="370" fill="#020617" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700">
+    $4,500/month
+  </text>
+
+  <!-- Card 2 -->
+  <rect x="760" y="404" width="560" height="88" rx="20" fill="#ECFDF5"/>
+  <text x="792" y="439" fill="#065F46" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="600">
+    Recovered Revenue
+  </text>
+  <text x="792" y="474" fill="#020617" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700">
+    $1,800/month
+  </text>
+
+  <!-- Card 3 -->
+  <rect x="760" y="508" width="560" height="88" rx="20" fill="#EFF6FF"/>
+  <text x="792" y="543" fill="#1D4ED8" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="600">
+    Speed-to-Lead Gain
+  </text>
+  <text x="792" y="578" fill="#020617" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700">
+    +$900/month
+  </text>
+
+  <!-- Card 4 -->
+  <rect x="760" y="612" width="560" height="104" rx="20" fill="#0F172A"/>
+  <text x="792" y="648" fill="#93C5FD" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="600">
+    Total Monthly Impact
+  </text>
+  <text x="792" y="695" fill="white" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="700">
+    +$2,700/month
+  </text>
+
+  <!-- Card 5 -->
+  <rect x="760" y="732" width="560" height="88" rx="20" fill="white" stroke="#E2E8F0"/>
+  <text x="792" y="767" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="600">
+    Time Saved
+  </text>
+  <text x="792" y="802" fill="#020617" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700">
+    25 hours/month
+  </text>
+  <text x="1120" y="802" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500">
+    ~3+ full working days
+  </text>
+
+  <!-- Bottom CTA -->
+  <rect x="320" y="780" width="800" height="72" rx="20" fill="#0F172A"/>
+  <text x="720" y="824" text-anchor="middle" fill="white" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="500">
+    You don’t need more leads — you need to convert the ones you already have.
